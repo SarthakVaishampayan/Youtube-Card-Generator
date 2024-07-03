@@ -4,7 +4,7 @@ let title = prompt("Enter the title")
 let cName = prompt("Enter the name of your channel")
 let views = prompt("Enter the no of view(int)")
 let monthsOld = prompt("No of months old the video is ?")
-let duration = prompt("duration of the video(mins:sec)")
+let duration = prompt("duration of the video(mm:ss)")
 let thumbnail = prompt("url of the thumbnail")
 
 
